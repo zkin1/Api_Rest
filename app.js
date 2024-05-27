@@ -28,6 +28,27 @@ let data = [
     precio: 29990,
     stock: 10,
     foto: '/img/Pterrorinsolito.png'
+  },
+  {
+    nombre: 'Pumpkin night Vol. 6',
+    descripcion: 'Su amigo, un chico llamado Kazuya Makino, es el próximo objetivo de este misterioso asesino. Resulta que la verdadera identidad de Pumpkin Night es Naoko Kirino, una niña intimidada desde la infancia y que ha escapado de una institución mental para vengarse de sus matones.',
+    precio: "10.990",
+    stock: 6,
+    foto: '/img/pumpkin.jpg'
+  },
+  {
+    nombre: 'Maximum Berserk 7',
+    descripcion: '¡Se ha manifestado una dimensión alternativa! Un espacio que da sentido a todo lo sucedido hasta ahora, pero donde al mismo tiempo ese pasado carece de importancia. El Beherit, de nuevo en las manos de Griffith, responde a la llamada de su corazón, derrama lágrimas de sangre y arrastra a la Banda del Halcón en pleno a esa otra dimensión. Se produce entonces el advenimoiento de cuatro seres grotescos, los Mano de dios, que anuncian que Griffith se incorpora a sus filas tras una ofrenda: la vida de sus compañeros de armas. ¡Empieza el desenfrenado banquete de los demonios!',
+    precio: "10.990",
+    stock: 7,
+    foto: '/img/Pberserk.png'
+  },
+  {
+    nombre: 'ONE PIECE EDICION 3 EN 1: PACK 1 A 5',
+    descripcion: 'PACK DE LOS PRIMEROS 5 TOMOS DE ONE PIECE EDITADO POR PLANETA',
+    precio: "39.990",
+    stock: 2,
+    foto: '/img/Ponepice.png'
   }
 ];
 
